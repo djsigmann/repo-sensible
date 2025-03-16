@@ -1,0 +1,32 @@
+{
+    "name": "RepoSensible",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/djsigmann/repo-sensible",
+    "description": "RepoSensible: Defaults everyone can agree on",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"Zehs-REPOLib-1.4.2",
+		"nickklmao-MenuLib-1.0.4",
+		"nickklmao-REPOConfig-1.1.5",
+		"loaforc-loaforcsSoundAPI-2.0.5",
+		"mattymatty-AsyncLoggers-2.1.4",
+		"CCarrMcMahon-Essentials-0.3.1",
+		"nickklmao-PlayerCount-1.0.0",
+		"ironbean-LevelNumberUI-1.0.0",
+		"QERT2002-REPO_FPSCounter-1.0.1",
+		"zombieseatflesh7-ColoredNametags-1.0.0",
+		"x753_REPO-CustomColors-1.1.0",
+		"darmuh-FovUpdate-0.2.3",
+		"linkoid-DarkRepo-1.2.0",
+		"BlueAmulet-REPO_HD-1.0.0",
+		"nickklmao-FreecamSpectate-1.0.2",
+		"soundedsquash-Toggle_Mute-0.1.6",
+		"YMC_MHZ-EnhancedControls-1.0.2",
+		"DirtyGames-DynamicLighting-1.0.0",
+		"Zehs-ExtractionPointConfirmButton-1.0.1",
+		"linkoid-OpenInvite-1.0.0",
+		"linkoid-HostOnlyStart-1.1.0",
+		"Rebateman-LateJoin-0.1.2",
+		"zelofi-MorePlayers-1.0.4"
+    ]
+}
