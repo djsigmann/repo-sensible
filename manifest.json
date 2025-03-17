@@ -1,6 +1,6 @@
 {
     "name": "RepoSensible",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/djsigmann/repo-sensible",
     "description": "RepoSensible: Defaults everyone can agree on",
     "dependencies": [
