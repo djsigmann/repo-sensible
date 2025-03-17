@@ -9,7 +9,6 @@ All mod configs are kept at their defaults, except for:
 - DarkRepo - Configured to be the same as the vanilla game
 - Toggle_Mute - Disabled
 - EnhancedControls - Disabled stand after crouch jump
- Stand After Crouch Jump
 
 Unless otherwise specified, all configs can be edited in-game under the Mods section.
 
