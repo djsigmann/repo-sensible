@@ -3,13 +3,13 @@ Rebateman-LateJoin-0.1.2
 linkoid-HostOnlyStart-1.1.0
 linkoid-OpenInvite-1.0.0
 Zehs-ExtractionPointConfirmButton-1.0.1
-DirtyGames-DynamicLighting-1.0.0
+DirtyGames-DynamicLighting-1.1.0
 YMC_MHZ-EnhancedControls-1.0.2
 soundedsquash-Toggle_Mute-0.1.6
 nickklmao-FreecamSpectate-1.0.2
-BlueAmulet-REPO_HD-1.0.0
+BlueAmulet-REPO_HD-1.0.1
 linkoid-DarkRepo-1.2.0
-darmuh-FovUpdate-0.2.3
+darmuh-FovUpdate-0.2.4
 x753_REPO-CustomColors-1.1.0
 zombieseatflesh7-ColoredNametags-1.0.0
 QERT2002-REPO_FPSCounter-1.0.1
