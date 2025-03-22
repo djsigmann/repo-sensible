@@ -18,20 +18,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Accidental inclusion of previously removed dependencies
 
-## [1.1.1] 202o5-03-21
+## [1.1.1] 2025-03-21
 
 ### Bumped
 - [DynamicLighting](https://thunderstore.io/c/repo/p/DirtyGames/DynamicLighting/) 1.0.0 -> 1.1.0
 - [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/) 0.2.3 -> 0.2.4
 
 ### Changed
-- Improve Makefile [DEV]
+- Improved Makefile [DEV]
 
 ## [1.1.0] - 2025-03-17
 
 ### Removed
-- [HostOnlyStart](https://thunderstore.io/c/repo/p/linkoid/HostOnlyStart/): Due to requiring the host to not go AFK for too long.
-- [R.E.P.O. HD](https://thunderstore.io/c/repo/p/BlueAmulet/REPO_HD/): Due to causing low FPS and changing how the game looks too much (it can't be disabled in config).
+- [HostOnlyStart](https://thunderstore.io/c/repo/p/linkoid/HostOnlyStart/) due to requiring the host to not go AFK for too long.
+- [R.E.P.O. HD](https://thunderstore.io/c/repo/p/BlueAmulet/REPO_HD/) due to causing low FPS and changing how the game looks too much (it can't be disabled in config).
 
 ### Bumped
 - [REPOLib](https://thunderstore.io/c/repo/p/Zehs/REPOLib/) 1.1.5 -> 1.1.6
@@ -41,7 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Extra line in README
 
 ### Changed
-- Improve Makefile [DEV]
+- Improved Makefile [DEV]
 
 ## [1.0.0] - 2025-03-16
 
