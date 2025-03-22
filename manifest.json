@@ -1,6 +1,6 @@
 {
 	"name": "RepoSensible",
-	"version_number": "1.1.2",
+	"version_number": "1.1.3",
 	"website_url": "https://github.com/djsigmann/repo-sensible",
 	"description": "RepoSensible: Defaults everyone can agree on",
 	"dependencies": [
@@ -16,7 +16,7 @@
 		"QERT2002-REPO_FPSCounter-1.0.1",
 		"zombieseatflesh7-ColoredNametags-1.0.0",
 		"x753_REPO-CustomColors-1.1.0",
-		"darmuh-FovUpdate-0.2.4",
+		"darmuh-FovUpdate-0.2.5",
 		"linkoid-DarkRepo-1.2.0",
 		"nickklmao-FreecamSpectate-1.0.2",
 		"soundedsquash-Toggle_Mute-0.1.6",
