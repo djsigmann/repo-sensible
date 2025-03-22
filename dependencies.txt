@@ -7,7 +7,7 @@ YMC_MHZ-EnhancedControls-1.0.2
 soundedsquash-Toggle_Mute-0.1.6
 nickklmao-FreecamSpectate-1.0.2
 linkoid-DarkRepo-1.2.0
-darmuh-FovUpdate-0.2.4
+darmuh-FovUpdate-0.2.5
 x753_REPO-CustomColors-1.1.0
 zombieseatflesh7-ColoredNametags-1.0.0
 QERT2002-REPO_FPSCounter-1.0.1
