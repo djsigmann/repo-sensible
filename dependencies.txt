@@ -1,4 +1,3 @@
-zelofi-MorePlayers-1.0.4
 Rebateman-LateJoin-0.1.2
 linkoid-OpenInvite-1.0.0
 Zehs-ExtractionPointConfirmButton-1.0.1

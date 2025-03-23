@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Removed
+- [MorePlayers](https://thunderstore.io/c/repo/p/zelofi/MorePlayers/) due to the fact that the new version of [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) includes this functionality
+
 ### Bumped
 - [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) 1.0.5 -> 2.0.0 
 - [REPOConfig](https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/) 1.1.6 -> 1.1.7
