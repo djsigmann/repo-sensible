@@ -9,12 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Removed
-- [MorePlayers](https://thunderstore.io/c/repo/p/zelofi/MorePlayers/) due to the fact that the new version of [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) includes this functionality
+- [MorePlayers](https://thunderstore.io/c/repo/p/zelofi/MorePlayers/) due to the fact that [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) now includes this functionality, and directly conflicts with MorePlayers
 
 ### Bumped
 - [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) 1.0.5 -> 2.0.0 
 - [REPOConfig](https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/) 1.1.6 -> 1.1.7
-- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) 0.3.1 -> 0.3.2
+- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) 0.3.1 -> 0.3.4
 - [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/) 0.2.5 -> 0.2.6
 - [FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/) 1.0.2 -> 1.1.0
 

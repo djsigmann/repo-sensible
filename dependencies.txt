@@ -12,7 +12,7 @@ zombieseatflesh7-ColoredNametags-1.0.0
 QERT2002-REPO_FPSCounter-1.0.1
 ironbean-LevelNumberUI-1.0.0
 nickklmao-PlayerCount-1.0.0
-CCarrMcMahon-Essentials-0.3.2
+CCarrMcMahon-Essentials-0.3.4
 mattymatty-AsyncLoggers-2.1.4
 loaforc-loaforcsSoundAPI-2.0.5
 nickklmao-REPOConfig-1.1.7
