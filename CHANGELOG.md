@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [Unreleased]
+
+### Bumped
+- [MenuLib](https://thunderstore.io/c/repo/p/nickklmao/MenuLib/) 1.0.5 -> 2.0.0 
+- [REPOConfig](https://thunderstore.io/c/repo/p/nickklmao/REPOConfig/) 1.1.6 -> 1.1.7
+- [Essentials](https://thunderstore.io/c/repo/p/CCarrMcMahon/Essentials/) 0.3.1 -> 0.3.2
+- [FovUpdate](https://thunderstore.io/c/repo/p/darmuh/FovUpdate/) 0.2.5 -> 0.2.6
+- [FreecamSpectate](https://thunderstore.io/c/repo/p/nickklmao/FreecamSpectate/) 1.0.2 -> 1.1.0
+
+### Fixed
+- Changelog Typos
+
 ## [1.1.3] 2025-03-22
 
 ### Bumped
