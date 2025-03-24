@@ -8,11 +8,15 @@ clean:
 gen-zip:
 	mkdir -p build
 
-	# generate manifest.json
-	tac dependencies.txt | sed '/^djsigmann-RepoSensible/d' | sed 's/^/"/; s/$$/"/; 1s/^/[/; $$!s/$$/,/; $$s/$$/]/' | \
-	jq --tab '.dependencies = input' manifest.json - >build/manifest.json
+	tac dependencies.txt | sed '/^djsigmann-RepoSensible/d' >build/dependencies.txt # remove this modpack from dependencies list and reorder it
 
-	cp -a README.md CHANGELOG.md icon.png BepInEx/ build
+	sed 's/^/"/; s/$$/"/; 1s/^/[/; $$!s/$$/,/; $$s/$$/]/' <build/dependencies.txt >build/dependencies.json # json-ify dependencies.txt
+	jq --tab '.dependencies = input' manifest.json build/dependencies.json >build/manifest.json # generate manifest.json
+
+	sed 's|^\(.*\)-\(.*\)-\(.*\)$$|- [\2](https://thunderstore.io/c/repo/p/\1/\2/)|' <build/dependencies.txt >build/dependencies.md # generate URLS for dependencies
+	sed '/## Mods/ {n; d}' README.md | sed '/## Mods/r build/dependencies.md' >build/README.md # merge README.md and dependencies.md
+
+	cp -a CHANGELOG.md icon.png BepInEx/ build
 
 	cd build && \
 	zip RepoSensible.zip manifest.json README.md CHANGELOG.md icon.png -r BepInEx/
