@@ -5,7 +5,6 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-
 ## [Unreleased]
 
 ### Removed
@@ -20,6 +19,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Changelog Typos
+
+### Changed
+- Remove dependencies list from manifest.json and README.md and fully generate it from dependencies.txt [DEV]
 
 ## [1.1.3] 2025-03-22
 
