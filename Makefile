@@ -1,12 +1,18 @@
-# TODO: figure out if icon.png can be auto-generated from icon.xcf or if must be done automatically
-all: clean gen-deps
-	zip RepoSensible.zip manifest.json README.md CHANGELOG.md icon.png -r BepInEx/
+# TODO: figure out if icon.png can be auto-generated from icon.xcf or if must be done manually
+all: clean gen-zip
 
 clean:
-	rm -f *.zip manifest-tmp.json
+	rm -rf build
 
 # TODO: figure out if it's possible to generate URLS to the relevant thunderstore.io packages from dependency strings
-gen-deps:
+gen-zip:
+	mkdir -p build
+
+	# generate manifest.json
 	tac dependencies.txt | sed '/^djsigmann-RepoSensible/d' | sed 's/^/"/; s/$$/"/; 1s/^/[/; $$!s/$$/,/; $$s/$$/]/' | \
-	jq --tab '.dependencies = input' manifest.json - >manifest-tmp.json
-	mv manifest-tmp.json manifest.json
+	jq --tab '.dependencies = input' manifest.json - >build/manifest.json
+
+	cp -a README.md CHANGELOG.md icon.png BepInEx/ build
+
+	cd build && \
+	zip RepoSensible.zip manifest.json README.md CHANGELOG.md icon.png -r BepInEx/
