@@ -15,4 +15,9 @@ Unless otherwise specified, all configs can be edited in-game under the Mods sec
 ## Mods
 - see [dependencies.txt](dependencies.txt)
 
+
+## Credits
 Shamelessly inspired by a [project completely unrelated to R.E.P.O., modding, or even gaming in general](https://github.com/tpope/vim-sensible)
+
+## License
+The project is licensed under GNU General Public License v3 or later.
