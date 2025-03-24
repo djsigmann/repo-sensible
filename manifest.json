@@ -6,11 +6,11 @@
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"Zehs-REPOLib-1.4.2",
-		"nickklmao-MenuLib-2.0.0",
+		"nickklmao-MenuLib-2.1.0",
 		"nickklmao-REPOConfig-1.1.7",
 		"loaforc-loaforcsSoundAPI-2.0.5",
 		"mattymatty-AsyncLoggers-2.1.4",
-		"CCarrMcMahon-Essentials-0.3.2",
+		"CCarrMcMahon-Essentials-0.3.4",
 		"nickklmao-PlayerCount-1.0.0",
 		"ironbean-LevelNumberUI-1.0.0",
 		"QERT2002-REPO_FPSCounter-1.0.1",
@@ -24,6 +24,6 @@
 		"DirtyGames-DynamicLighting-1.1.0",
 		"Zehs-ExtractionPointConfirmButton-1.0.1",
 		"linkoid-OpenInvite-1.0.0",
-		"Rebateman-LateJoin-0.1.2",
+		"Rebateman-LateJoin-0.1.2"
 	]
 }
