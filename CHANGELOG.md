@@ -23,6 +23,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Remove dependencies list from manifest.json and README.md and fully generate it from dependencies.txt [DEV]
+- Automatically generate icon.png from icon.xcf when building [DEV]
+- Removed Unnecessary config files (those that had default settings)
+- Included new config options from FovUpdate
 
 ## [1.1.3] 2025-03-22
 
