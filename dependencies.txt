@@ -17,6 +17,6 @@ mattymatty-AsyncLoggers-2.1.4
 loaforc-loaforcsSoundAPI-2.0.5
 nickklmao-REPOConfig-1.1.7
 nickklmao-MenuLib-2.1.0
-Zehs-REPOLib-1.4.2
+Zehs-REPOLib-1.5.0
 BepInEx-BepInExPack-5.4.2100
 djsigmann-RepoSensible-1.1.3
