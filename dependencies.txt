@@ -5,7 +5,7 @@ DirtyGames-DynamicLighting-1.1.0
 YMC_MHZ-EnhancedControls-1.0.2
 soundedsquash-Toggle_Mute-0.1.6
 nickklmao-FreecamSpectate-1.1.0
-linkoid-DarkRepo-1.2.0
+linkoid-DarkRepo-1.3.0
 darmuh-FovUpdate-0.2.7
 x753_REPO-CustomColors-1.1.0
 zombieseatflesh7-ColoredNametags-1.0.0
@@ -16,7 +16,7 @@ CCarrMcMahon-Essentials-0.3.5
 mattymatty-AsyncLoggers-2.1.4
 loaforc-loaforcsSoundAPI-2.0.5
 nickklmao-REPOConfig-1.1.7
-nickklmao-MenuLib-2.1.2
+nickklmao-MenuLib-2.1.3
 Zehs-REPOLib-1.5.0
 BepInEx-BepInExPack-5.4.2100
 djsigmann-RepoSensible-1.2.0
