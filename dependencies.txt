@@ -16,7 +16,7 @@ CCarrMcMahon-Essentials-0.3.5
 mattymatty-AsyncLoggers-2.1.4
 loaforc-loaforcsSoundAPI-2.0.5
 nickklmao-REPOConfig-1.1.8
-nickklmao-MenuLib-2.1.3
+nickklmao-MenuLib-2.2.0
 Zehs-REPOLib-1.5.0
 BepInEx-BepInExPack-5.4.2100
-djsigmann-RepoSensible-1.2.0
+djsigmann-RepoSensible-1.2.1
