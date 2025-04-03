@@ -1,10 +1,8 @@
-# TODO: figure out if icon.png can be auto-generated from icon.xcf or if must be done manually
 all: clean gen-zip
 
 clean:
 	rm -rf build
 
-# TODO: figure out if it's possible to generate URLS to the relevant thunderstore.io packages from dependency strings
 gen-zip:
 	mkdir -p build
 
